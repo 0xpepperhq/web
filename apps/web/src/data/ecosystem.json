@@ -99,6 +99,13 @@
     "imageUrl": "/images/partners/mavia.png"
   },
   {
+    "name": "0xPepper",
+    "tags": ["defi", "gaming", "social"],
+    "description": "Web3 Super App on Base",
+    "url": "https://0xpepper.com",
+    "imageUrl": "/images/partners/pepper.png"
+  },
+  {
     "name": "KOMPETE",
     "tags": [
       "gaming"
